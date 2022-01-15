@@ -1,0 +1,36 @@
+.container{
+   border: 2px solid black;
+   box-shadow: 10px 10px 32px 10px rgb(182, 182, 182);
+   
+  cursor: pointer;
+  /* margin auto will work when display is defined to be a block element
+  and align items gonna work when its inline or inline-block element */
+
+   display: block;
+   width: 30%;
+   margin: 0 auto;
+}
+h2{
+    font-size: 40px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+.list{
+    text-align: center;
+    margin: 10px;
+}
+input{
+    width: 290px;
+    height: 32px;
+    font-size: 20px;
+}
+
+button{
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+#list-container{
+  cursor: pointer;
+  
+
+}
